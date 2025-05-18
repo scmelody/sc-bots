@@ -1,0 +1,1 @@
+# Shared WindowCapture module

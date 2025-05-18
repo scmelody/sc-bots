@@ -1,0 +1,16 @@
+{
+  "window_name": "Ragnarok Code",
+  "use_arduino": true,
+  "click_method": "arduino",
+  "threshold": 0.90,
+  "image_paths": {
+    "code_input": "assets/imgs/redeem/code_box.png",
+    "submit_button": "assets/imgs/redeem/submit_btn.png",
+    "confirm_button": "assets/imgs/redeem/confirm_btn.png"
+  },
+  "click_offset": { "x": 7, "y": 32 },
+  "codes": ["RAGFREE2024", "VIPCODE123"],
+  "retry_on_fail": true,
+  "max_attempts": 3,
+  "log_file": "redeem_log.txt"
+}

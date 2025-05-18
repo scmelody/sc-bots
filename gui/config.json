@@ -1,0 +1,17 @@
+{
+  "window_name": "",
+  "use_arduino": true,
+  "click_method": "arduino",
+  "threshold": 0.9,
+  "max_attempts": 3,
+  "click_offset": {
+    "x": 7,
+    "y": 32
+  },
+  "codes": [],
+  "image_paths": {
+    "code_input": "",
+    "submit_button": "",
+    "confirm_button": ""
+  }
+}
